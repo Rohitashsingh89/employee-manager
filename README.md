@@ -1,7 +1,7 @@
 # Employee Management System with Node.js and EJS
 
 #### Check out our Employee Management System in action with this demo video:
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">Demo Video</a>
+https://github.com/Rohitashsingh89/online-learning-platform/assets/93479842/7f3fe5f0-3aba-40d2-8ad5-f7931e10c94e
 
 # Employee Management System using Node.js and EJS
 
